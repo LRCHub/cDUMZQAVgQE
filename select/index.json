@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Jazz (We've Got)",
+  "base_artist": "A Tribe Called Quest",
+  "createdAt": "2026-03-17T20:34:52.858500Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jazz (We've Got) (Re-Recording radio)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/01_Jazz_(We've_Got)_(Re-Recording_radio)_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jazz (We've Got It)  (Re-Recording Radio)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/02_Jazz_(We've_Got_It)_(Re-Recording_Radio)_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jazz (We've Got)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/03_Jazz_(We've_Got)_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jazz (We’ve Got)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/04_Jazz_(We’ve_Got)_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jazz (We've Got) - Re-Recording",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/05_Jazz_(We've_Got)_-_Re-Recording_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jazz (We've Got) [Re-Recording Radio]",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/06_Jazz_(We've_Got)_[Re-Recording_Radio]_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jazz (We've Got)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/07_Jazz_(We've_Got)_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jazz (We've Got) (Re-Recording)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/08_Jazz_(We've_Got)_(Re-Recording)_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jazz (We’ve Got) (re‐recording radio)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/09_Jazz_(We’ve_Got)_(re‐recording_radio)_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jazz (We've Got) (Re-recording)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/10_Jazz_(We've_Got)_(Re-recording)_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jazz(We've Got)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/11_Jazz(We've_Got)_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jazz (We’ve Got) (LP radio version)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/12_Jazz_(We’ve_Got)_(LP_radio_version)_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jazz (We’ve Got) (re‐recording)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/13_Jazz_(We’ve_Got)_(re‐recording)_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jazz (We’ve Got) (Re‐Recording Instrumental)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/14_Jazz_(We’ve_Got)_(Re‐Recording_Instrumental)_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jazz (We've Got)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/pl_01_Jazz_(We've_Got)_A_Tribe_Called_Quest.txt"
+    }
+  ]
+}
